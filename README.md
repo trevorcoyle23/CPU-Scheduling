@@ -2,7 +2,7 @@
 CPU Scheduling implementations (fcfs, sjf, psjf, rr)
 
 # Compiling
-`$make`
+`$ make`
 
 # Usage
 `./assign2 quantum cpuBurst ioBurst cpuBurst cpuBurst ioBurst cpuBurst`
